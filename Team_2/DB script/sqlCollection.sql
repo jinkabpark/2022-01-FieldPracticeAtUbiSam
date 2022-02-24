@@ -1,8 +1,15 @@
--- Node-RED와 DB를 연결하여 원하는 정보를 불러오기 위한 코드 중 SQL문만 작성
--- - function 노드에 작성할 코드 형식
---      msg.topic = "SQL문";
---      return msg;
+-- <sqlCollection>
+--  Node-RED와 DB를 연결하여 원하는 정보를 불러오기 위한 코드 중 SQL문만 작성
 
+--  <function 노드에 작성할 코드 형식>
+--    msg.topic = "SQL문";
+--    return msg;
+
+-- <history>
+--   1) 2022.02.07 최초 생성
+--   2) 2022.02.07 장비의 개수를 조회하는 SELECT문 작성
+--   3) 2022.02.22 각 Device flow에서 필요한 정보를 조회하는 SELECT문 작성
+--   4) 2022.02.22 INSERT문, DELETE문 추가
 
 -- <SELECT문>
 -- 자동개폐기 정보 검색 - 모터(M), 온습도센서(Y, H, T)
