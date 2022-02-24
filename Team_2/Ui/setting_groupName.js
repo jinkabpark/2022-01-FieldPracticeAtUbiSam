@@ -2,6 +2,9 @@
 // setting 클릭 시 목록에 나타날 정보 중 그룹이름에 들어갈 내용
 // 그룹이름은 천창 위치, 관수 번호로 나타냄
 
+// <history>
+//  1) 2022.02.15 최초 생성
+
 var dvcCount = msg.payload.length // 장비 개수
 var groupName = []  // 그룹이름 배열
 var valveCount = 0  // 밸브 수
