@@ -1,25 +1,32 @@
 /* node red 화면 css */
 
-<style id="blue-dashboard">
+<style id="mint-dashboard">
+
+/* 
+
+기능: 기존 Node-RED UI에 CSS코드를 추가해 디자인적 요소가 가미되도록 하는 node 
+
+history
+2022.02.14 submit 버튼 통일 및 상단 버튼색 변경
+2022.02.15 상단 버튼색 가상클래스 선택자:focus를 이용한 변경
+2022.02.16 submit버튼 하단으로 이동
+
+*/
+
+
 /*배경색*/
 body.nr-dashboard-theme {
     background: radial-gradient(circle, rgb(228 255 250) 0%, rgb(190 238 223) 40%, rgba(198,239,231,1) 100%);
 }
-
-
 /*상단바색*/
 body.nr-dashboard-theme md-toolbar {
     background: radial-gradient(circle, rgb(228 255 250) 0%, rgb(190 238 223) 40%, rgba(198,239,231,1) 100%);
 }
-
-
 /*사이드 탭바색*/
 body.nr-dashboard-theme md-sidenav {
     color: rgb(128 154 139);
     background: radial-gradient(circle, rgb(228 255 250) 0%, rgb(190 238 223) 40%, rgba(198,239,231,1) 100%);
 }
-
-
 /*사이드 글자색*/
 body.nr-dashboard-theme md-sidenav div.md-list-item-inner {
     color: rgb(128 154 139);
@@ -32,40 +39,34 @@ body.nr-dashboard-theme md-sidenav div.md-list-item-inner {
     border-radius: 1em;
     box-shadow: 0 0 1em 0em rgb(255 255 255 / 50%)
 }
-
-
 /*그래프 글자색 및 배경색*/
 body.nr-dashboard-theme md-content md-card {
     background:transparent;
     color: rgb(128 154 139);
 }
-
 .nr-dashboard-theme .nr-dashboard-template {
     background:transparent;
    
 }
-
-
 /*제목색*/
 .nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {
     color: #7D877E;
     text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);
 }
-
+/*상단 버튼색*/
 .md-button{
     border-radius:0.6em;
     color:rgb(128 154 139);
 }
-
 .nr-dashboard-theme .nr-dashboard-button .md-button {
     background-color: C9C9C9;
     color:rgb(246 247 249);
 }
-
+/*상단 버튼 마우스위로 올릴 시 변경되는 색깔*/
 .nr-dashboard-theme .nr-dashboard-button .md-button:hover {
     background-color: #3CBC96;
 }
-
+/*상단 버튼 마우스로 클릭하는 동안 변경되는 색깔*/
 .nr-dashboard-theme .nr-dashboard-button .md-button:focus {
     background-color: #E2D78D;
 }
@@ -75,8 +76,7 @@ body.nr-dashboard-theme md-content md-card {
     color:rgb(215 223 245);
 }
 
-
-/* 밑줄색 */
+/*밑줄색*/
 .nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {
      color:rgb(70 220 172);
     border-color: #46DCAC !important;
@@ -89,23 +89,26 @@ body.nr-dashboard-theme md-content md-card {
     color:rgb(128 154 139);
     border-radius:0.8em;
 }
-
+/*drop down 글자색*/
 .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {
     margin-top: -3px;
     border-color: #46DCAC;
+    
 }
-
+/*drop down 겉 네모박스 모양*/
 .nr-dashboard-theme .md-select-menu-container {
     max-height: 85%;
     overflow-y: auto;
     border: none;
     border-radius: 0.8em;
 }
+.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {
 
-
+}
 /*drop down 네모박스 색*/
 .nr-dashboard-theme md-select-menu md-option {
     background-color: rgb(243 243 243);
+   
     height: 29px;
     border-radius: 0.6em;
     margin-left: 10px;
@@ -114,8 +117,6 @@ body.nr-dashboard-theme md-content md-card {
     box-shadow: 0 0 6px 6px #24202133;
     transition: 0.3s;
 }
-
-
 /*drop down 옵션 선택 색*/
 .nr-dashboard-theme md-select-menu md-option[selected] {
     color: rgb(125 135 126) !important;
@@ -125,12 +126,12 @@ body.nr-dashboard-theme md-content md-card {
 .nr-dashboard-theme md-select-menu md-option:last-child {
    margin-bottom: 8px;
 }
-
+/*drop down 네모박스 클릭시 색상변경*/
 .nr-dashboard-theme md-select-menu md-option:active {
     background-color: rgb(61 183 192) !important;
     padding-left: 26px;
 }
-
+/*drop down 네모박스 모서리 둥글게*/
 .nr-dashboard-theme md-select-menu md-option > .md-ripple-container{
      border-radius: 14px;
 }
