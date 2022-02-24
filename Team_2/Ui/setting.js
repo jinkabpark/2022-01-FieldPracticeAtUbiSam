@@ -10,6 +10,9 @@
 //          -> 코드 수정 : show에 "Setting_설정입력 + (dvcCount - 6)", "Setting_설정입력 + (dvcCount - 7)"  추가, 
 //                         hide에 "Setting_설정입력 + (dvcCount + 6)", "Setting_설정입력 + (dvcCount + 7)" 추가
 
+// <history>
+//  1) 2022.02.15 최초 생성
+
 // db에서 불러온 data를 활용하여 Setting 목록의 수에 맞게 ui가 동적으로 적용되도록 하는 코드 작성
 // db를 통해 얻은 Setting 목록의 수만큼 그룹을 나타내고 그 이상의 그룹은 숨김 처리
 
