@@ -1,0 +1,4638 @@
+[
+    {
+        "id": "169a85797e154a79",
+        "type": "tab",
+        "label": "Create Config File",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7a2f30566efa08de",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "Object Info",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#bfdbef",
+            "label": true,
+            "fill-opacity": "0.6"
+        },
+        "nodes": [
+            "ba0e623bb9a074a9",
+            "8fed1a4655dd051f",
+            "add71d139223a708",
+            "2f19a9451d25abd8",
+            "80656ce09212a79a",
+            "7d8f62dbd76027fd",
+            "1ba782e98a6a8af6",
+            "95cd411ba2ebdf3c",
+            "80f751bc8b4dd5f4",
+            "f7fc7f7da2c7deea",
+            "89a10b3d1d930d57",
+            "ed875ac0940cce11",
+            "048feccd31916b36",
+            "0cbf32d79fca77a6",
+            "5e241f23fecdeafe",
+            "fe59defcfd5ebffd",
+            "c762a783444d21e2",
+            "ba10f07f4318c907",
+            "3368011864b935e6",
+            "088ffe4b64e17a88",
+            "fd19f0400c9b9632",
+            "be282df30960adf5"
+        ],
+        "x": 1294,
+        "y": 79,
+        "w": 392,
+        "h": 482
+    },
+    {
+        "id": "f9d4958dda3238f1",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "Device Info",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#e3f3d3",
+            "label": true,
+            "fill-opacity": "0.6"
+        },
+        "nodes": [
+            "3f5db2c1a7225c24",
+            "d8c422a7c2f78a83",
+            "bea64a9119a005db",
+            "ab393036eed65fe5",
+            "c123e1ff9f4749d5",
+            "3f8fc43855b8c6b7",
+            "7b98ec905c7d8bfb",
+            "26c741c7b2386634",
+            "dfd73f7ad8eb81fe",
+            "242e84f1514d106c",
+            "2841ab51658952b0",
+            "c030098303db495e",
+            "bf79f12789cba960",
+            "e95ac757936b9013",
+            "6bf202647ce2a21e",
+            "11dc1fd4521731ea",
+            "963530f4cfd40518",
+            "dc9c4db0b8c95ce8",
+            "655994cd767fe759",
+            "2d68367e9bbe03d4",
+            "03ddcaa07d44f0b6",
+            "63717c8f5e5b9d90",
+            "9806d3f2ada52581",
+            "b438ec7116999dcd",
+            "89f7cd14d8dc14ca",
+            "1d13571eef087ee1",
+            "43cb767daac83e94",
+            "542caadec3d798b4",
+            "55ade1829a93d235",
+            "037f41f9ac2d462b",
+            "ba3bccab9726a200",
+            "94e252df18cad491"
+        ],
+        "x": 434,
+        "y": 139,
+        "w": 412,
+        "h": 682
+    },
+    {
+        "id": "c4c3d752b661bf75",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "Device Config",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#ffffbf",
+            "label": true,
+            "fill-opacity": "0.6"
+        },
+        "nodes": [
+            "43dbcd6ffe0bdf65",
+            "5ff3adf7418295f2",
+            "9601de7b50748e53",
+            "5c308059e3dbc35a",
+            "d300148ebcc79a6c",
+            "a8ed610a6d0cf78d"
+        ],
+        "x": 454,
+        "y": 839,
+        "w": 372,
+        "h": 162
+    },
+    {
+        "id": "087502640bb2d38d",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "Define",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#dbcbe7",
+            "label": true,
+            "fill-opacity": "0.6"
+        },
+        "nodes": [
+            "371737efb89b87fa",
+            "129b0e4c1beb3d65",
+            "7ab89645112c5d2e",
+            "36e13c602ff1c159",
+            "ece6fa1788d3991c",
+            "ea048b7a1778a114",
+            "9480e6175181eaa7",
+            "15ae04fb3457a20c",
+            "310465c9cc7977bf",
+            "eeadbb4bbcc6a685",
+            "b246a9e0fad829fb",
+            "83f141f5aa70a299",
+            "bbc6fb0bc525e62c",
+            "2bfe8db888e98fe8",
+            "90a69b5fe8a21773",
+            "5daea235ec72498c",
+            "4a7184c8ca74da7a",
+            "ab76845ce02cf2b0",
+            "99a0fd0572dc8448",
+            "e73211dbb42b0289",
+            "f870725ff32621bc",
+            "9934d548d1f360a7",
+            "dec7b1047b37b189",
+            "77ea0db3118e0ec0",
+            "7eb2afa46267a870",
+            "49a43e2334ac6219",
+            "da57b0b2db19efe9",
+            "60dfddc785f0181b"
+        ],
+        "x": 1754,
+        "y": 79,
+        "w": 412,
+        "h": 602
+    },
+    {
+        "id": "2ec58453e616156a",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "Dynamic Control",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#d1d1d1",
+            "label": true,
+            "fill-opacity": "0.31"
+        },
+        "nodes": [
+            "1e1a024a555be74d",
+            "7bfaed51608e4890",
+            "c7febae4b6ea632a",
+            "f15258d7a9de1438",
+            "c4f0d6f21c0a7fab",
+            "c9763617de5dc816",
+            "d84526cb2e6f02c5",
+            "6f190a75b9e70c90",
+            "edd715ad4886f320"
+        ],
+        "x": 1614,
+        "y": 1039,
+        "w": 592,
+        "h": 322
+    },
+    {
+        "id": "9da569a0611252fe",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "API",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#ffbfbf",
+            "label": true,
+            "fill-opacity": "0.6"
+        },
+        "nodes": [
+            "1036e50c37f238e6",
+            "1277cc801c75e98e",
+            "6841017293346941",
+            "19f6bd4f3b58da31",
+            "69350b4e322fc41a",
+            "b3fe8c4dbb261bec",
+            "92c9113dff387e12",
+            "3922281d84a10b6d",
+            "197d17bbb4a94cfd",
+            "24dcf85f5b102b64",
+            "a5795127f114fe93",
+            "a54bff09bca8f311"
+        ],
+        "x": 1754,
+        "y": 739,
+        "w": 452,
+        "h": 282
+    },
+    {
+        "id": "c530cad7ca73d6d3",
+        "type": "group",
+        "z": "169a85797e154a79",
+        "name": "Json2Config",
+        "style": {
+            "stroke": "#ffffff",
+            "fill": "#d1d1d1",
+            "label": true,
+            "fill-opacity": "0.53"
+        },
+        "nodes": [
+            "ffc4f60349bed074",
+            "632e6c70566ecbd7",
+            "2fec2630dcb3426b",
+            "534a23650589fd77",
+            "adde99e034af324a",
+            "c4b6667f292efc68",
+            "28893410e9b74ff7",
+            "0c0da8b038185838",
+            "b9c0138e837a2363",
+            "1f3690e23e1ce9b8",
+            "3926ebe96ba7f239"
+        ],
+        "x": 454,
+        "y": 1019,
+        "w": 932,
+        "h": 202
+    },
+    {
+        "id": "3f5db2c1a7225c24",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Device Name",
+        "label": "Device Nameㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 개발용-판교)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 2,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "deviceName",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 180,
+        "wires": [
+            [
+                "d8c422a7c2f78a83"
+            ]
+        ]
+    },
+    {
+        "id": "259ada8418e18a95",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "name": "dump func",
+        "func": "\n//Setting Complete\nvar setting = flow.get('setting')||0;\n\nvar objectData4 = global.get(\"objectData3\")||0;\n//var objectdata4 = objectData2 || 0;\n//Object Info\n\n/*\nvar usage = flow.get('usage')||0;\nvar devicetype = flow.get('deviceType')||0;\nvar fantype = flow.get('fanType')||0;\nvar powersource = flow.get('powerSource')||0;\nvar drivetime = flow.get('driveTime')||0;\nvar connectiontype = flow.get('connectionType')||0;\nvar gpiopin = flow.get('gpioPin')||0;\nvar gpiosubpin = flow.get('gpioSubPin')||0;\nvar loraid = flow.get('loraId')||0;\nvar lorarelayno = flow.get('loraRelayNo')||0;\nvar devicetag = flow.get('deviceTag')||0;\n*/\n////////////////////////////////////////////////////보류\n\n//Device Info\nvar devicename = flow.get('deviceName')||\"개발용-판교\";\nvar userid = flow.get('userId')||\"5\";\nvar lorafarmid = flow.get('LoRaFarmID')||\"001\";\nvar ddnsname = flow.get('ddnsName')||\"http:///13579.iptime.org:119\";\nvar routermanufacturer = flow.get('routerManufacturer')||\"KT\";\nvar routermodel = flow.get('routerModel')||\"GIGA WiFi\";\nvar dvrmanufacturer = flow.get('dvrManufacturer')||\"DAHUA\";\nvar dvrmodel = flow.get('dvrModel')||\"D42\";\nvar dvrcamcount = flow.get('dvrCamCount')||0;\nvar farmaddress = flow.get('farmAddress')||\"Migeum Daewoon 42\";\nvar networktype = flow.get('networkType')||\"W\";\nvar latitude = flow.get('latitude')||37.4388;\nvar longitude = flow.get('longitude')||127.1396;\nvar currentvolume = flow.get('currentVolume')||0;\nvar currentbroadcasturl = flow.get('currentBroadcastUrl')||\"NONE\";\nvar healthcheckinterval = flow.get('healthcheckInterval')||1;\n\n//Device Config\nvar dvripaddress = flow.get('dvrIpAddress')||\"192.168.0.XXX\";\nvar dvrloginid = flow.get('dvrLoginId')||\"id\";\nvar dvrpassword = flow.get('dvrPassword')||\"password\";\n\n//Define\nvar GPIOSRPN = flow.get('GPIOSRPN')||4;\nvar MMOT = flow.get('MMOT')||10;\nvar VMOT = flow.get('VMOT')||1440;\nvar FMOT = flow.get('FMOT')||1440;\nvar CPS = flow.get('CPS')||5;\nvar SDSP = flow.get('SDSP')||10;\nvar LODIG = flow.get('LODIG')||5;\nvar MDEIG = flow.get('MDEIG')||5;\nvar TUL = flow.get('TUL')||80;\nvar TLL = flow.get('TLL')||-20;\nvar HUL = flow.get('HUL')||80;\nvar HLL = flow.get('HLL')||55;\nvar CO2UL = flow.get('CO2UL')||200;\nvar CO2LL = flow.get('CO2LL')||1;\n\n\n//API\nvar farmtype = flow.get('farmType')||\"JEJU\";\nvar gropnm = flow.get('gropNm')||\"HyunJin\";\nvar grenhousno = flow.get('grenHousNo')||\"1\";\nvar ceonm = flow.get('ceoNm')||\"KangHee\";\nvar hpguserid = flow.get('hpgUserId')||\"test\";\nvar pswdnm = flow.get('pswdNm')||\"pass\";\n\n\nmsg.payload = { \n\nsmartfarm:\n{ setting_complete: setting,\n\ndeviceinfo : { devicename, userid, lorafarmid, ddnsname, routermanufacturer, routermodel, dvrmanufacturer, dvrmodel, dvrcamcount, farmaddress, networktype, latitude, longitude, currentvolume, currentbroadcasturl, healthcheckinterval },\n\n//objectinfo : { 0: usage, 1: devicetype, 2: fantype, 3: powersource, 4: drivetime, 5: connectiontype, 6: gpiopin, 7: gpiosubpin, 8: loraid, 9: lorarelayno, 10: devicetag  }, \nobjectinfo : { 0: objectData4 },\ndeviceConfig : { dvripaddress, dvrloginid, dvrpassword,\ndefine : { GPIOSRPN, MMOT, VMOT, FMOT, CPS, SDSP, LODIG, MDEIG, TUL, TLL, HUL, HLL, CO2UL, CO2LL,\n}\n    \n},\n\nApi : { farmtype, gropnm, grenhousno, ceonm, hpguserid, pswdnm, }\n\n}\n};\n\n\nglobal.set(\"configform5\", msg);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1490,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d8c422a7c2f78a83",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.deviceName \ncontext.data.deviceName = msg.payload;\n//context.data.deviceName = String(msg.payload);\n\nflow.set('deviceName', context.data.deviceName);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 180,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "bea64a9119a005db",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "User ID",
+        "label": "User IDㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 5)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 3,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "userId",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 520,
+        "y": 220,
+        "wires": [
+            [
+                "ab393036eed65fe5"
+            ]
+        ]
+    },
+    {
+        "id": "ab393036eed65fe5",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.userId \ncontext.data.userId = msg.payload;\n\nflow.set('userId', context.data.userId);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 220,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "c123e1ff9f4749d5",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "LoRa Farm ID",
+        "label": "LoRa Farm IDㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 001)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 6,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "LoRaFarmID",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 260,
+        "wires": [
+            [
+                "3f8fc43855b8c6b7"
+            ]
+        ]
+    },
+    {
+        "id": "3f8fc43855b8c6b7",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.LoRaFarmID \ncontext.data.LoRaFarmID = msg.payload;\n\nif (msg.payload.length == 3 ) {\n    flow.set('LoRaFarmID', context.data.LoRaFarmID);\n    global.set(\"errorCase\", 'noError');\n} else {\n    global.set(\"errorCase\", 'LoRa Farm ID Length Error');\n    msg.payload = 'LoRa Farm ID Length Error';\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 260,
+        "wires": [
+            [
+                "227f0eee6f504833"
+            ]
+        ]
+    },
+    {
+        "id": "7b98ec905c7d8bfb",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "DDNS name",
+        "label": "DDNS name ㅤㅤ(ex: http:///77972646.iptime.org:11990)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 7,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "ddnsName",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 530,
+        "y": 300,
+        "wires": [
+            [
+                "26c741c7b2386634"
+            ]
+        ]
+    },
+    {
+        "id": "26c741c7b2386634",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.ddnsName \ncontext.data.ddnsName = msg.payload;\n\nflow.set('ddnsName', context.data.ddnsName);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 300,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "dfd73f7ad8eb81fe",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Router Manufacturer",
+        "label": "Router Manufacturerㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: KT)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 10,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "routerManufacturer",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 560,
+        "y": 340,
+        "wires": [
+            [
+                "242e84f1514d106c"
+            ]
+        ]
+    },
+    {
+        "id": "242e84f1514d106c",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.routerManufacturer \ncontext.data.routerManufacturer = msg.payload;\n\nflow.set('routerManufacturer', context.data.routerManufacturer);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 340,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "2841ab51658952b0",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Router Model",
+        "label": "Router Modelㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: GIGA WiFi)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 11,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "routerModel",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 380,
+        "wires": [
+            [
+                "c030098303db495e"
+            ]
+        ]
+    },
+    {
+        "id": "c030098303db495e",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.routerModel\ncontext.data.routerModel = msg.payload;\n//context.data.routerModel = String(msg.payload);\n\nflow.set('routerModel', context.data.routerModel);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 380,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "bf79f12789cba960",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "DVR Manufacturer",
+        "label": "DVR Manufacturerㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: DAHUA)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 14,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "dvrManufacturer",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 550,
+        "y": 420,
+        "wires": [
+            [
+                "e95ac757936b9013"
+            ]
+        ]
+    },
+    {
+        "id": "e95ac757936b9013",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.dvrManufacturer\ncontext.data.dvrManufacturer = msg.payload;\n\nflow.set('dvrManufacturer', context.data.dvrManufacturer);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 420,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "6bf202647ce2a21e",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "DVR Model",
+        "label": "DVR Modelㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: D42)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 15,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "dvrModel",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 530,
+        "y": 460,
+        "wires": [
+            [
+                "11dc1fd4521731ea"
+            ]
+        ]
+    },
+    {
+        "id": "11dc1fd4521731ea",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.dvrModel\ncontext.data.dvrModel = msg.payload;\n\nflow.set('dvrModel', context.data.dvrModel);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 460,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "963530f4cfd40518",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "DVR CamCount",
+        "label": "DVR CamCountㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 0)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 18,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "dvrCamCount",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 500,
+        "wires": [
+            [
+                "dc9c4db0b8c95ce8"
+            ]
+        ]
+    },
+    {
+        "id": "dc9c4db0b8c95ce8",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.dvrCamCount\ncontext.data.dvrCamCount = msg.payload;\n//context.data.dvrCamCount = String(msg.payload);\n\nflow.set('dvrCamCount', context.data.dvrCamCount);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 500,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "655994cd767fe759",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Farm Address",
+        "label": "Farm Addressㅤㅤㅤㅤㅤㅤㅤ(ex: Migeum Daewoon 42)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 19,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "farmAddress",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 540,
+        "wires": [
+            [
+                "2d68367e9bbe03d4"
+            ]
+        ]
+    },
+    {
+        "id": "2d68367e9bbe03d4",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.farmAddress \ncontext.data.farmAddress = msg.payload;\n\nflow.set('farmAddress', context.data.farmAddress);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 540,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "03ddcaa07d44f0b6",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.networkType \ncontext.data.networkType = msg.payload;\n\nflow.set('networkType', context.data.networkType);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 580,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "63717c8f5e5b9d90",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Latitude",
+        "label": "Latitudeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 37.4388)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 23,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "latitude",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 520,
+        "y": 620,
+        "wires": [
+            [
+                "9806d3f2ada52581"
+            ]
+        ]
+    },
+    {
+        "id": "9806d3f2ada52581",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.latitude \ncontext.data.latitude = msg.payload;\n\nflow.set('latitude', context.data.latitude);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 620,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "b438ec7116999dcd",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Longitude",
+        "label": "Longitudeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 127.1396)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 26,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "longitude",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 520,
+        "y": 660,
+        "wires": [
+            [
+                "89f7cd14d8dc14ca"
+            ]
+        ]
+    },
+    {
+        "id": "89f7cd14d8dc14ca",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.longitude\ncontext.data.longitude = msg.payload;\n//context.data.task1 = String(msg.payload);\n\nflow.set('longitude', context.data.longitude);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 660,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "1d13571eef087ee1",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Current Volume",
+        "label": "Current Volumeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 0)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 27,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "currentVolume",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 700,
+        "wires": [
+            [
+                "43cb767daac83e94"
+            ]
+        ]
+    },
+    {
+        "id": "43cb767daac83e94",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.currentVolume\ncontext.data.currentVolume = msg.payload;\n\nflow.set('currentVolume', context.data.currentVolume);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 700,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "542caadec3d798b4",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Current Broadcast URL",
+        "label": "Current Broadcast URLㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: NONE)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 30,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "currentBroadcastUrl",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 570,
+        "y": 740,
+        "wires": [
+            [
+                "55ade1829a93d235"
+            ]
+        ]
+    },
+    {
+        "id": "55ade1829a93d235",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.currentBroadcastUrl \ncontext.data.currentBroadcastUrl = msg.payload;\n\nflow.set('currentBroadcastUrl', context.data.currentBroadcastUrl);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 740,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "037f41f9ac2d462b",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Health Check Interval",
+        "label": "Health Check Intervalㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 1)",
+        "tooltip": "",
+        "group": "f1f88eddc714f067",
+        "order": 31,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "healthcheckInterval",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 560,
+        "y": 780,
+        "wires": [
+            [
+                "ba3bccab9726a200"
+            ]
+        ]
+    },
+    {
+        "id": "ba3bccab9726a200",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.healthcheckInterval\ncontext.data.healthcheckInterval = msg.payload;\n\nflow.set('healthcheckInterval', context.data.healthcheckInterval);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 780,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "f343423c81d5f58c",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "name": "Setting",
+        "label": "",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "5e01bea49e0c40d2",
+        "order": 2,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Setting Complete",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "Mac address 초기화",
+                "value": 0,
+                "type": "num"
+            },
+            {
+                "label": "JSON 파일 읽고 DB에 반영",
+                "value": "1",
+                "type": "str"
+            },
+            {
+                "label": " JSON 파일 읽지 않고 저장된 DB이용 (초기화이후 운영모드)",
+                "value": "2",
+                "type": "str"
+            },
+            {
+                "label": "DB에 있는 모든 Object 삭제",
+                "value": "9",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "setting",
+        "topicType": "msg",
+        "className": "",
+        "x": 530,
+        "y": 100,
+        "wires": [
+            [
+                "5f8a95972b78e06c"
+            ]
+        ]
+    },
+    {
+        "id": "5f8a95972b78e06c",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.setting\ncontext.data.setting = msg.payload;\n\nflow.set('setting', context.data.setting);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 100,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "ba0e623bb9a074a9",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Usage",
+        "label": "",
+        "tooltip": "",
+        "place": "Usage",
+        "group": "c28f112b3e1541d8",
+        "order": 2,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Usage",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "장치를 사용합니다",
+                "value": "O-",
+                "type": "str"
+            },
+            {
+                "label": "장치를 사용하지 않습니다",
+                "value": "X-",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "usage",
+        "topicType": "msg",
+        "className": "",
+        "x": 1370,
+        "y": 120,
+        "wires": [
+            [
+                "8fed1a4655dd051f"
+            ]
+        ]
+    },
+    {
+        "id": "8fed1a4655dd051f",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.usage\ncontext.data.usage = msg.payload;\n\nglobal.set('usage', context.data.usage);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 120,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "43dbcd6ffe0bdf65",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "c4c3d752b661bf75",
+        "name": "DVR IP Address",
+        "label": "DVR IP Addressㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 192.168.0.XXX)",
+        "tooltip": "",
+        "group": "12638e170fa89486",
+        "order": 2,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "dvrIpAddress",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 560,
+        "y": 880,
+        "wires": [
+            [
+                "5ff3adf7418295f2"
+            ]
+        ]
+    },
+    {
+        "id": "5ff3adf7418295f2",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "c4c3d752b661bf75",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.dvrIpAddress \ncontext.data.dvrIpAddress = msg.payload;\n\nflow.set('dvrIpAddress', context.data.dvrIpAddress);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 880,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "9601de7b50748e53",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "c4c3d752b661bf75",
+        "name": "DVR Login ID",
+        "label": "DVR Login IDㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: id)",
+        "tooltip": "",
+        "group": "12638e170fa89486",
+        "order": 5,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "dvrLoginId",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 560,
+        "y": 920,
+        "wires": [
+            [
+                "5c308059e3dbc35a"
+            ]
+        ]
+    },
+    {
+        "id": "5c308059e3dbc35a",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "c4c3d752b661bf75",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.dvrLoginId\ncontext.data.dvrLoginId = msg.payload;\n\nflow.set('dvrLoginId', context.data.dvrLoginId);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 920,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "d300148ebcc79a6c",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "c4c3d752b661bf75",
+        "name": "DVR Password",
+        "label": "DVR Passwordㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: password)",
+        "tooltip": "",
+        "group": "12638e170fa89486",
+        "order": 8,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "dvrPassword",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 560,
+        "y": 960,
+        "wires": [
+            [
+                "a8ed610a6d0cf78d"
+            ]
+        ]
+    },
+    {
+        "id": "a8ed610a6d0cf78d",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "c4c3d752b661bf75",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.dvrPassword\ncontext.data.dvrPassword = msg.payload;\n\nflow.set('dvrPassword', context.data.dvrPassword);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 960,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "1036e50c37f238e6",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "Farm Type",
+        "label": "Farm Typeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: JEJU)",
+        "tooltip": "",
+        "group": "7cbb9e6ef86b3063",
+        "order": 2,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "farmType",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1930,
+        "y": 780,
+        "wires": [
+            [
+                "1277cc801c75e98e"
+            ]
+        ]
+    },
+    {
+        "id": "1277cc801c75e98e",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.farmType \ncontext.data.farmType = msg.payload;\n\nif (msg.payload.length == 0) {\n    global.set(\"errorCase\", 'API Data missing');\n} else {\n    flow.set('farmType', context.data.farmType);\n    global.set(\"errorCase\", 'noError');\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2120,
+        "y": 780,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "6841017293346941",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "Group Name",
+        "label": "Group Nameㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 현진테크)",
+        "tooltip": "",
+        "group": "7cbb9e6ef86b3063",
+        "order": 5,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "gropNm",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1930,
+        "y": 820,
+        "wires": [
+            [
+                "19f6bd4f3b58da31"
+            ]
+        ]
+    },
+    {
+        "id": "19f6bd4f3b58da31",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.gropNm \ncontext.data.gropNm = msg.payload;\n\nif (msg.payload.length == 0) {\n    global.set(\"errorCase\", 'API Data missing');\n} else {\n    flow.set('gropNm', context.data.gropNm);\n    global.set(\"errorCase\", 'noError');\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2120,
+        "y": 820,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "69350b4e322fc41a",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "GreenHouse Number",
+        "label": "GreenHouse Numberㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 1)",
+        "tooltip": "",
+        "group": "7cbb9e6ef86b3063",
+        "order": 8,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "grenHousNo",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1900,
+        "y": 860,
+        "wires": [
+            [
+                "b3fe8c4dbb261bec"
+            ]
+        ]
+    },
+    {
+        "id": "b3fe8c4dbb261bec",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.grenHousNo\ncontext.data.grenHousNo = msg.payload;\n\nif (msg.payload.length == 0) {\n    global.set(\"errorCase\", 'API Data missing');\n} else {\n    flow.set('grenHousNo', context.data.grenHousNo);\n    global.set(\"errorCase\", 'noError');\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2120,
+        "y": 860,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "92c9113dff387e12",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "CEO Name",
+        "label": "CEO Nameㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 고광희)",
+        "tooltip": "",
+        "group": "7cbb9e6ef86b3063",
+        "order": 11,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "ceoNm",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1930,
+        "y": 900,
+        "wires": [
+            [
+                "3922281d84a10b6d"
+            ]
+        ]
+    },
+    {
+        "id": "3922281d84a10b6d",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.ceoNm \ncontext.data.ceoNm = msg.payload;\n\nif (msg.payload.length == 0) {\n    global.set(\"errorCase\", 'API Data missing');\n} else {\n    flow.set('ceoNm', context.data.ceoNm);\n    global.set(\"errorCase\", 'noError');\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2120,
+        "y": 900,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "197d17bbb4a94cfd",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "Homepage User ID",
+        "label": "Homepage User IDㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: id)",
+        "tooltip": "",
+        "group": "7cbb9e6ef86b3063",
+        "order": 14,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "hpgUserId",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1910,
+        "y": 940,
+        "wires": [
+            [
+                "24dcf85f5b102b64"
+            ]
+        ]
+    },
+    {
+        "id": "24dcf85f5b102b64",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.hpgUserId \ncontext.data.hpgUserId = msg.payload;\n\nif (msg.payload.length == 0) {\n    global.set(\"errorCase\", 'API Data missing');\n} else {\n    flow.set('hpgUserId', context.data.hpgUserId);\n    global.set(\"errorCase\", 'noError');\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2120,
+        "y": 940,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "a5795127f114fe93",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "Hompage User Password",
+        "label": "Hompage User Passwordㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: password)",
+        "tooltip": "",
+        "group": "7cbb9e6ef86b3063",
+        "order": 17,
+        "width": 16,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "pswdNm",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 980,
+        "wires": [
+            [
+                "a54bff09bca8f311"
+            ]
+        ]
+    },
+    {
+        "id": "a54bff09bca8f311",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "9da569a0611252fe",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.pswdNm \ncontext.data.pswdNm = msg.payload;\n\nif (msg.payload.length == 0) {\n    global.set(\"errorCase\", 'API Data missing');\n} else {\n    flow.set('pswdNm', context.data.pswdNm);\n    global.set(\"errorCase\", 'noError');\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2120,
+        "y": 980,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "ffc4f60349bed074",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "",
+        "group": "30e15ef0371c4cb4",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "submit",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#58C6D2",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 530,
+        "y": 1140,
+        "wires": [
+            [
+                "c4b6667f292efc68"
+            ]
+        ]
+    },
+    {
+        "id": "632e6c70566ecbd7",
+        "type": "debug",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "Take Data2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1170,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "2fec2630dcb3426b",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "make config",
+        "func": "var configData = global.get(\"configform5\");\n\nreturn configData;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1100,
+        "wires": [
+            [
+                "632e6c70566ecbd7",
+                "534a23650589fd77",
+                "b9c0138e837a2363"
+            ]
+        ]
+    },
+    {
+        "id": "534a23650589fd77",
+        "type": "json",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "",
+        "property": "payload",
+        "action": "str",
+        "pretty": true,
+        "x": 1150,
+        "y": 1060,
+        "wires": [
+            [
+                "adde99e034af324a"
+            ]
+        ]
+    },
+    {
+        "id": "adde99e034af324a",
+        "type": "file",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "",
+        "filename": "config",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 1310,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "371737efb89b87fa",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "GPIO Start Relay Pin No",
+        "label": "GPIO Start Relay Pin Noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 4)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 2,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "GPIOSRPN",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 120,
+        "wires": [
+            [
+                "90a69b5fe8a21773"
+            ]
+        ]
+    },
+    {
+        "id": "129b0e4c1beb3d65",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Motor Max Operation Time",
+        "label": "Motor Max Operation Time (min)ㅤㅤㅤㅤㅤㅤㅤ(ex: 10)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 3,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "MMOT",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1900,
+        "y": 160,
+        "wires": [
+            [
+                "5daea235ec72498c"
+            ]
+        ]
+    },
+    {
+        "id": "7ab89645112c5d2e",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Valve Max Operation Time",
+        "label": "Valve Max Operation Time (min)ㅤㅤㅤㅤㅤㅤㅤ(ex: 1440)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 6,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "VMOT",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1900,
+        "y": 200,
+        "wires": [
+            [
+                "4a7184c8ca74da7a"
+            ]
+        ]
+    },
+    {
+        "id": "36e13c602ff1c159",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Fan Max Operation Time",
+        "label": "Fan Max Operation Time (min)ㅤㅤㅤㅤㅤㅤㅤ(ex: 1440)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 7,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "FMOT",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 240,
+        "wires": [
+            [
+                "ab76845ce02cf2b0"
+            ]
+        ]
+    },
+    {
+        "id": "ece6fa1788d3991c",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Comm Period to Sensor",
+        "label": "Comm Period to Sensorㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 5)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 10,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "CPS",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 280,
+        "wires": [
+            [
+                "99a0fd0572dc8448"
+            ]
+        ]
+    },
+    {
+        "id": "ea048b7a1778a114",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Sensor Data Save Period",
+        "label": "Sensor Data Save Periodㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 10)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 11,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "SDSP",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 320,
+        "wires": [
+            [
+                "e73211dbb42b0289"
+            ]
+        ]
+    },
+    {
+        "id": "9480e6175181eaa7",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Limit Over Data Input Gap",
+        "label": "Limit Over Data Input Gapㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 5)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 14,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "LODIG",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 360,
+        "wires": [
+            [
+                "f870725ff32621bc"
+            ]
+        ]
+    },
+    {
+        "id": "15ae04fb3457a20c",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Motor Drive Event Input Gap",
+        "label": "Motor Drive Event Input Gapㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 5)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 15,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "MDEIG",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1900,
+        "y": 400,
+        "wires": [
+            [
+                "9934d548d1f360a7"
+            ]
+        ]
+    },
+    {
+        "id": "310465c9cc7977bf",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Temperature Upper Limit",
+        "label": "Temperature Upper Limitㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 80)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 18,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "TUL",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 440,
+        "wires": [
+            [
+                "dec7b1047b37b189"
+            ]
+        ]
+    },
+    {
+        "id": "eeadbb4bbcc6a685",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Temperature Lower Limit",
+        "label": "Temperature Lower Limitㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: -20)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 19,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "TLL",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1890,
+        "y": 480,
+        "wires": [
+            [
+                "77ea0db3118e0ec0"
+            ]
+        ]
+    },
+    {
+        "id": "b246a9e0fad829fb",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Humidity Upper Limit",
+        "label": "Humidity Upper Limitㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 80)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 22,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "HUL",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1880,
+        "y": 520,
+        "wires": [
+            [
+                "7eb2afa46267a870"
+            ]
+        ]
+    },
+    {
+        "id": "83f141f5aa70a299",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "Humidity Lower Limit",
+        "label": "Humidity Lower Limitㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 55)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 23,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "HLL",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1880,
+        "y": 560,
+        "wires": [
+            [
+                "49a43e2334ac6219"
+            ]
+        ]
+    },
+    {
+        "id": "bbc6fb0bc525e62c",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "CO2 Upper Limit",
+        "label": "CO2 Upper Limitㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 200)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 26,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "CO2UL",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1870,
+        "y": 600,
+        "wires": [
+            [
+                "da57b0b2db19efe9"
+            ]
+        ]
+    },
+    {
+        "id": "2bfe8db888e98fe8",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "CO2 Lower Limit",
+        "label": "CO2 Lower Limitㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(ex: 1)",
+        "tooltip": "",
+        "group": "a95fefb164a341d2",
+        "order": 27,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "CO2LL",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1870,
+        "y": 640,
+        "wires": [
+            [
+                "60dfddc785f0181b"
+            ]
+        ]
+    },
+    {
+        "id": "90a69b5fe8a21773",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.GPIOSRPN\ncontext.data.GPIOSRPN = msg.payload;\n//context.data.deviceName = String(msg.payload);\n\nflow.set('GPIOSRPN', context.data.GPIOSRPN);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 120,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "5daea235ec72498c",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.MMOT \ncontext.data.MMOT = msg.payload;\n\nflow.set('MMOT', context.data.MMOT);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 160,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "4a7184c8ca74da7a",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.VMOT \ncontext.data.VMOT = msg.payload;\n\nflow.set('VMOT', context.data.VMOT);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 200,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "ab76845ce02cf2b0",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.FMOT \ncontext.data.FMOT = msg.payload;\n\nflow.set('FMOT', context.data.FMOT);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 240,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "99a0fd0572dc8448",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.CPS \ncontext.data.CPS = msg.payload;\n\nflow.set('CPS', context.data.CPS);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 280,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "e73211dbb42b0289",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.SDSP\ncontext.data.SDSP = msg.payload;\n//context.data.routerModel = String(msg.payload);\n\nflow.set('SDSP', context.data.SDSP);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 320,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "f870725ff32621bc",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.LODIG\ncontext.data.LODIG = msg.payload;\n\nflow.set('LODIG', context.data.LODIG);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 360,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "9934d548d1f360a7",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.MDEIG\ncontext.data.MDEIG = msg.payload;\n\nflow.set('MDEIG', context.data.MDEIG);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 400,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "dec7b1047b37b189",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.TUL\ncontext.data.TUL = msg.payload;\n//context.data.dvrCamCount = String(msg.payload);\n\nflow.set('TUL', context.data.TUL);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 440,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "77ea0db3118e0ec0",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.TLL\ncontext.data.TLL = msg.payload;\n\nflow.set('TLL', context.data.TLL);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 480,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "7eb2afa46267a870",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.HUL \ncontext.data.HUL = msg.payload;\n\nflow.set('HUL', context.data.HUL);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 520,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "49a43e2334ac6219",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.HLL\ncontext.data.HLL = msg.payload;\n\nflow.set('HLL', context.data.HLL);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 560,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "da57b0b2db19efe9",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.CO2UL\ncontext.data.CO2UL = msg.payload;\n//context.data.task1 = String(msg.payload);\n\nflow.set('CO2UL', context.data.CO2UL);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 600,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "60dfddc785f0181b",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "087502640bb2d38d",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.CO2LL\ncontext.data.CO2LL = msg.payload;\n\nflow.set('CO2LL', context.data.CO2LL);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2080,
+        "y": 640,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "1e1a024a555be74d",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 7,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "close",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#7A7A7A",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Setting_Complete\",\"Create_Config_File_Object_Information\",\"Create_Config_File_Device_Configuration\",\"Create_Config_File_API\",\"Create_Config_File_Define\",\"Create_Config_File_Device_Information\"],\"show\":[\"Create_Config_File_control_bar\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1750,
+        "y": 1320,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "7bfaed51608e4890",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 1,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Setting",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Device_Information\",\"Create_Config_File_Object_Information\",\"Create_Config_File_Device_Configuration\",\"Create_Config_File_Define\",\"Create_Config_File_API\"],\"show\":[\"Create_Config_File_control_bar\",\"Create_Config_File_Setting_Complete\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1750,
+        "y": 1080,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "c7febae4b6ea632a",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 4,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Device Config",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Setting_Complete\",\"Create_Config_File_Object_Information\",\"Create_Config_File_Device_Information\",\"Create_Config_File_Define\",\"Create_Config_File_API\"],\"show\":[\"Create_Config_File_control_bar\",\"Create_Config_File_Device_Configuration\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1720,
+        "y": 1200,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "f15258d7a9de1438",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Device Info",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Setting_Complete\",\"Create_Config_File_Object_Information\",\"Create_Config_File_Device_Configuration\",\"Create_Config_File_Define\",\"Create_Config_File_API\"],\"show\":[\"Create_Config_File_control_bar\",\"Create_Config_File_Device_Information\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1730,
+        "y": 1120,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "c4f0d6f21c0a7fab",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 3,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Object Info",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Setting_Complete\",\"Create_Config_File_Device_Information\",\"Create_Config_File_Device_Configuration\",\"Create_Config_File_Define\",\"Create_Config_File_API\"],\"show\":[\"Create_Config_File_control_bar\",\"Create_Config_File_Object_Information\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1730,
+        "y": 1160,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "c9763617de5dc816",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "API",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Setting_Complete\",\"Create_Config_File_Object_Information\",\"Create_Config_File_Device_Configuration\",\"Create_Config_File_Device_Information\",\"Create_Config_File_Define\"],\"show\":[\"Create_Config_File_control_bar\",\"Create_Config_File_API\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1750,
+        "y": 1280,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "d84526cb2e6f02c5",
+        "type": "ui_ui_control",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "events": "all",
+        "x": 1920,
+        "y": 1180,
+        "wires": [
+            [
+                "6f190a75b9e70c90"
+            ]
+        ]
+    },
+    {
+        "id": "6f190a75b9e70c90",
+        "type": "debug",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2090,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "edd715ad4886f320",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "g": "2ec58453e616156a",
+        "name": "",
+        "group": "560c9670457e1c5f",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "define",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "{\"group\":{\"hide\":[\"Create_Config_File_Setting_Complete\",\"Create_Config_File_Device_Information\",\"Create_Config_File_Object_Information\",\"Create_Config_File_Device_Configuration\",\"Create_Config_File_API\"],\"show\":[\"Create_Config_File_control_bar\",\"Create_Config_File_Define\"],\"focus\":true}}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1750,
+        "y": 1240,
+        "wires": [
+            [
+                "d84526cb2e6f02c5"
+            ]
+        ]
+    },
+    {
+        "id": "351a7275484f4ff0",
+        "type": "ui_template",
+        "z": "169a85797e154a79",
+        "group": "b47ce81ca04ab4ec",
+        "name": "dashboard CSS",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<style id=\"blue-dashboard\">\n/*배경색*/\nbody.nr-dashboard-theme {\n    background: radial-gradient(circle, rgb(228 255 250) 0%, rgb(190 238 223) 40%, rgba(198,239,231,1) 100%);\n}\n/*상단바색*/\nbody.nr-dashboard-theme md-toolbar {\n    background: radial-gradient(circle, rgb(228 255 250) 0%, rgb(190 238 223) 40%, rgba(198,239,231,1) 100%);\n}\n/*사이드 탭바색*/\nbody.nr-dashboard-theme md-sidenav {\n    color: rgb(128 154 139);\n    background: radial-gradient(circle, rgb(228 255 250) 0%, rgb(190 238 223) 40%, rgba(198,239,231,1) 100%);\n}\n/*사이드 글자색*/\nbody.nr-dashboard-theme md-sidenav div.md-list-item-inner {\n    color: rgb(128 154 139);\n    background-color: transparent;\n}\n\n.nr-dashboard-theme ui-card-panel {\n    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);\n    border: none;\n    border-radius: 1em;\n    box-shadow: 0 0 1em 0em rgb(255 255 255 / 50%)\n}\n/*그래프 글자색 및 배경색*/\nbody.nr-dashboard-theme md-content md-card {\n    background:transparent;\n    color: rgb(128 154 139);\n}\n.nr-dashboard-theme .nr-dashboard-template {\n    background:transparent;\n   \n}\n/*제목색*/\n.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {\n    color: #7D877E;\n    text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);\n}\n\n.md-button{\n    border-radius:0.6em;\n    color:rgb(128 154 139);\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button {\n    background-color: C9C9C9;\n    color:rgb(246 247 249);\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button:hover {\n    background-color: #3CBC96;\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button:focus {\n    background-color: #E2D78D;\n}\n\n/*.nr-dashboard-theme .nr-dashboard-numeric .value {\n    background:unset;\n    color:rgb(255 255 0);\n}\n.nr-dashboard-theme .nr-dashboard-form {\n    color:rgb(255 255 0);\n}\n*/\n\n.nr-dashboard-theme .nr-dashboard-form-button {\n    background-color: #053ea8;\n    color:rgb(215 223 245);\n}\n\n/*.nr-dashboard-theme .nr-dashboard-form-button:hover {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme .nr-dashboard-form-button:focus {\n    background-color: #0646bd !important;\n}\n*/\n\n/* 밑줄색 */\n.nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {\n     color:rgb(70 220 172);\n    border-color: #46DCAC !important;\n}\n\n/*\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-thumb {\n    background-color: rgb(25 31 153);\n}\n\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-bar {\n    background-color: rgb(255 0 0);\n    box-shadow: inset 0 0 1px #0000005e;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-bar {\n    background-color: rgb(94 94 177);\n     box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-thumb {\n    background-color: rgb(61 107 232);\n    box-shadow: 0 0 10px 0px #101086;\n}\n*/\n\n/*\n.nr-dashboard-theme .nr-dashboard-slider .md-track {\n    background-color: rgb(255 0 0 / 35%);\n}\nmd-slider .md-thumb {\n    box-shadow: 0 0 10px 0px #101086;\n}\n\n.nr-dashboard-theme .nr-dashboard-slider .md-thumb:after {\n    background-color: #3d6be8;\n    border-color: #3d6be8;\n}\n*/\n\n/*drop down 글자색*/\n.nr-dashboard-theme md-select-menu, .nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(0 0 0 / 12%);\n    color:rgb(128 154 139);\n    border-radius:0.8em;\n}\n\n.nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {\n    margin-top: -3px;\n    border-color: #46DCAC;\n    \n}\n.nr-dashboard-theme .md-select-menu-container {\n    max-height: 85%;\n    overflow-y: auto;\n    border: none;\n    border-radius: 0.8em;\n}\n.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {\n\n}\n/*drop down 네모박스 색*/\n.nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(243 243 243);\n   \n    height: 29px;\n    border-radius: 0.6em;\n    margin-left: 10px;\n    margin-right: 10px;\n    margin-top: 2px;\n    box-shadow: 0 0 6px 6px #24202133;\n    transition: 0.3s;\n}\n/*drop down 옵션 선택 색*/\n.nr-dashboard-theme md-select-menu md-option[selected] {\n    color: rgb(125 135 126) !important;\n    background-color: rgb(61 183 192) !important;\n}\n/*.nr-dashboard-theme md-select-menu md-option:nth-child(even) {\n    background-color: rgb(70 220 172);\n}\n*/\n.nr-dashboard-theme md-select-menu md-option:last-child {\n   margin-bottom: 8px;\n}\n.nr-dashboard-theme md-select-menu md-option:active {\n    background-color: rgb(61 183 192) !important;\n    padding-left: 26px;\n}\n.nr-dashboard-theme md-select-menu md-option > .md-ripple-container{\n     border-radius: 14px;\n}\n\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1060,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "add71d139223a708",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Device Type",
+        "label": "Device Type",
+        "tooltip": "",
+        "place": "Device Type",
+        "group": "c28f112b3e1541d8",
+        "order": 5,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Device Type",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "밸브",
+                "value": "V:",
+                "type": "str"
+            },
+            {
+                "label": "모터",
+                "value": "M:",
+                "type": "str"
+            },
+            {
+                "label": "팬",
+                "value": "F:",
+                "type": "str"
+            },
+            {
+                "label": "온습도",
+                "value": "Y:",
+                "type": "str"
+            },
+            {
+                "label": "온도",
+                "value": "T:",
+                "type": "str"
+            },
+            {
+                "label": "습도",
+                "value": "H:",
+                "type": "str"
+            },
+            {
+                "label": "Co2",
+                "value": "C:",
+                "type": "str"
+            },
+            {
+                "label": "에어컨",
+                "value": "A:",
+                "type": "str"
+            },
+            {
+                "label": "LoRa Gateway",
+                "value": "G",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "deviceList",
+        "topicType": "msg",
+        "className": "",
+        "x": 1390,
+        "y": 160,
+        "wires": [
+            [
+                "2f19a9451d25abd8"
+            ]
+        ]
+    },
+    {
+        "id": "2f19a9451d25abd8",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.deviceList\ncontext.data.deviceList = msg.payload;\n\nglobal.set('deviceList', context.data.deviceList);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 160,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "80656ce09212a79a",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Fan Type",
+        "label": "Fan Type",
+        "tooltip": "",
+        "place": "Fan Type",
+        "group": "c28f112b3e1541d8",
+        "order": 9,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Fan Type",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "독일 슈나이드",
+                "value": ":1",
+                "type": "str"
+            },
+            {
+                "label": "중국 Driver",
+                "value": ":2",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "fanType",
+        "topicType": "msg",
+        "className": "",
+        "x": 1380,
+        "y": 200,
+        "wires": [
+            [
+                "7d8f62dbd76027fd"
+            ]
+        ]
+    },
+    {
+        "id": "7d8f62dbd76027fd",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.fanType\ncontext.data.fanType = msg.payload;\n\nglobal.set('fanType', context.data.fanType);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 200,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "1ba782e98a6a8af6",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Power Source",
+        "label": "Power Source",
+        "tooltip": "",
+        "place": "Power Source",
+        "group": "c28f112b3e1541d8",
+        "order": 6,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Power Source",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "상시 전원",
+                "value": "C",
+                "type": "str"
+            },
+            {
+                "label": "배터리",
+                "value": "B",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "powerSource",
+        "topicType": "msg",
+        "className": "",
+        "x": 1400,
+        "y": 240,
+        "wires": [
+            [
+                "95cd411ba2ebdf3c"
+            ]
+        ]
+    },
+    {
+        "id": "95cd411ba2ebdf3c",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.powerSource\ncontext.data.powerSource = msg.payload;\n\nglobal.set('powerSource', context.data.powerSource);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 240,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "80f751bc8b4dd5f4",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.driveTime\ncontext.data.driveTime = msg.payload;\n\nglobal.set('driveTime', context.data.driveTime);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 280,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "f7fc7f7da2c7deea",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Connection Type",
+        "label": "Connection Type",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "c28f112b3e1541d8",
+        "order": 13,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Connection Type",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "GPIO",
+                "value": "G:",
+                "type": "str"
+            },
+            {
+                "label": "LoRa",
+                "value": "L:",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "connectionType",
+        "topicType": "msg",
+        "className": "",
+        "x": 1410,
+        "y": 320,
+        "wires": [
+            [
+                "89a10b3d1d930d57"
+            ]
+        ]
+    },
+    {
+        "id": "89a10b3d1d930d57",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.connectionType\ncontext.data.connectionType = msg.payload;\n\nglobal.set('connectionType', context.data.connectionType);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 320,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "ed875ac0940cce11",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "GPIO Pin",
+        "label": "GPIO Pin",
+        "tooltip": "",
+        "place": "GPIO Pin",
+        "group": "c28f112b3e1541d8",
+        "order": 14,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "GPIO Pin",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "Pin 4",
+                "value": "4",
+                "type": "str"
+            },
+            {
+                "label": "Pin 5",
+                "value": "5",
+                "type": "str"
+            },
+            {
+                "label": "Pin 6",
+                "value": "6",
+                "type": "str"
+            },
+            {
+                "label": "Pin 12",
+                "value": "12",
+                "type": "str"
+            },
+            {
+                "label": "Pin 13",
+                "value": "13",
+                "type": "str"
+            },
+            {
+                "label": "Pin 16",
+                "value": "16",
+                "type": "str"
+            },
+            {
+                "label": "Pin 19",
+                "value": "19",
+                "type": "str"
+            },
+            {
+                "label": "Pin 20",
+                "value": "20",
+                "type": "str"
+            },
+            {
+                "label": "Pin 21",
+                "value": "21",
+                "type": "str"
+            },
+            {
+                "label": "Pin 22",
+                "value": "22",
+                "type": "str"
+            },
+            {
+                "label": "Pin 23",
+                "value": "23",
+                "type": "str"
+            },
+            {
+                "label": "Pin 24",
+                "value": "24",
+                "type": "str"
+            },
+            {
+                "label": "Pin 25",
+                "value": "25",
+                "type": "str"
+            },
+            {
+                "label": "Pin 26",
+                "value": "26",
+                "type": "str"
+            },
+            {
+                "label": "Pin 27",
+                "value": "27",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "gpioPin",
+        "topicType": "msg",
+        "className": "",
+        "x": 1380,
+        "y": 360,
+        "wires": [
+            [
+                "048feccd31916b36"
+            ]
+        ]
+    },
+    {
+        "id": "048feccd31916b36",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.gpioPin\ncontext.data.gpioPin = msg.payload;\n\nglobal.set('gpioPin', context.data.gpioPin);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 360,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "0cbf32d79fca77a6",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "GPIO Sub Pin",
+        "label": "GPIO Sub Pin",
+        "tooltip": "",
+        "place": "GPIO Sub Pin",
+        "group": "c28f112b3e1541d8",
+        "order": 17,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "GPIO Sub Pin (Only Motor)",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "Pin 4",
+                "value": ":4",
+                "type": "str"
+            },
+            {
+                "label": "Pin 5",
+                "value": ":5",
+                "type": "str"
+            },
+            {
+                "label": "Pin 6",
+                "value": ":6",
+                "type": "str"
+            },
+            {
+                "label": "Pin 12",
+                "value": ":12",
+                "type": "str"
+            },
+            {
+                "label": "Pin 13",
+                "value": ":13",
+                "type": "str"
+            },
+            {
+                "label": "Pin 16",
+                "value": ":16",
+                "type": "str"
+            },
+            {
+                "label": "Pin 19",
+                "value": ":19",
+                "type": "str"
+            },
+            {
+                "label": "Pin 20",
+                "value": ":20",
+                "type": "str"
+            },
+            {
+                "label": "Pin 21",
+                "value": ":21",
+                "type": "str"
+            },
+            {
+                "label": "Pin 22",
+                "value": ":22",
+                "type": "str"
+            },
+            {
+                "label": "Pin 23",
+                "value": ":23",
+                "type": "str"
+            },
+            {
+                "label": "Pin 24",
+                "value": ":24",
+                "type": "str"
+            },
+            {
+                "label": "Pin 25",
+                "value": ":25",
+                "type": "str"
+            },
+            {
+                "label": "Pin 26",
+                "value": ":26",
+                "type": "str"
+            },
+            {
+                "label": "Pin 27",
+                "value": ":27",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "gpioSubPin",
+        "topicType": "msg",
+        "className": "",
+        "x": 1400,
+        "y": 400,
+        "wires": [
+            [
+                "5e241f23fecdeafe"
+            ]
+        ]
+    },
+    {
+        "id": "5e241f23fecdeafe",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.gpioSubPin\ncontext.data.gpioSubPin = msg.payload;\n\nglobal.set('gpioSubPin', context.data.gpioSubPin);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 400,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "fe59defcfd5ebffd",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.loraId \ncontext.data.loraId = msg.payload;\n\nglobal.set('loraId', context.data.loraId);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 440,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "c762a783444d21e2",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Lora Relay No",
+        "label": "LoRa Relay No",
+        "tooltip": "",
+        "place": "LoRa Relay No",
+        "group": "c28f112b3e1541d8",
+        "order": 21,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "LoRa Realy No",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "1",
+                "value": ":1",
+                "type": "str"
+            },
+            {
+                "label": "2",
+                "value": ":2",
+                "type": "str"
+            },
+            {
+                "label": "3",
+                "value": ":3",
+                "type": "str"
+            },
+            {
+                "label": "4",
+                "value": ":4",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "loraRelayNo",
+        "topicType": "msg",
+        "className": "",
+        "x": 1400,
+        "y": 480,
+        "wires": [
+            [
+                "ba10f07f4318c907"
+            ]
+        ]
+    },
+    {
+        "id": "ba10f07f4318c907",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.loraRelayNo\ncontext.data.loraRelayNo = msg.payload;\n\nglobal.set('loraRelayNo', context.data.loraRelayNo);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 480,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "3368011864b935e6",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "",
+        "func": "context.data = context.data || {}\nvar data = context.data.deviceTag \ncontext.data.deviceTag = msg.payload;\n\nglobal.set('deviceTag', context.data.deviceTag);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 520,
+        "wires": [
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "227f0eee6f504833",
+        "type": "switch",
+        "z": "169a85797e154a79",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "LoRa Farm ID Length Error",
+                "vt": "str"
+            },
+            {
+                "t": "nnull"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 970,
+        "y": 260,
+        "wires": [
+            [
+                "10e9eb16a9f11d81"
+            ],
+            [
+                "259ada8418e18a95"
+            ]
+        ]
+    },
+    {
+        "id": "10e9eb16a9f11d81",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "LoRa Farm ID는 3자입니다.",
+        "name": "",
+        "x": 1170,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "28893410e9b74ff7",
+        "type": "switch",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "noError",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "LoRa Farm ID Length Error",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "API Data missing",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 810,
+        "y": 1140,
+        "wires": [
+            [
+                "2fec2630dcb3426b",
+                "3926ebe96ba7f239"
+            ],
+            [
+                "1f3690e23e1ce9b8"
+            ],
+            [
+                "0c0da8b038185838"
+            ]
+        ]
+    },
+    {
+        "id": "c4b6667f292efc68",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "",
+        "func": "var errorCase = global.get(\"errorCase\")\nmsg.payload = errorCase;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 1140,
+        "wires": [
+            [
+                "28893410e9b74ff7"
+            ]
+        ]
+    },
+    {
+        "id": "1f3690e23e1ce9b8",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "LoRa Farm ID는 3자를 넘지 않아야 합니다.",
+        "name": "ID length Alert",
+        "x": 980,
+        "y": 1140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0c0da8b038185838",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "API 칸은 모두 채워주셔야 합니다.",
+        "name": "Empty Text Alert",
+        "x": 980,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b9c0138e837a2363",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "name": "",
+        "func": "global.set(\"configform5\", null);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 1140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3926ebe96ba7f239",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "g": "c530cad7ca73d6d3",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Config 파일이 생성되었습니다.",
+        "name": "Make Config Message",
+        "x": 980,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "94e252df18cad491",
+        "type": "ui_dropdown",
+        "z": "169a85797e154a79",
+        "g": "f9d4958dda3238f1",
+        "name": "Network Type",
+        "label": "",
+        "tooltip": "",
+        "place": "",
+        "group": "f1f88eddc714f067",
+        "order": 22,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Network Type",
+                "value": "",
+                "type": "str"
+            },
+            {
+                "label": "무선",
+                "value": "W",
+                "type": "str"
+            },
+            {
+                "label": "유선",
+                "value": "E",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "networkType",
+        "topicType": "msg",
+        "className": "",
+        "x": 540,
+        "y": 580,
+        "wires": [
+            [
+                "03ddcaa07d44f0b6"
+            ]
+        ]
+    },
+    {
+        "id": "088ffe4b64e17a88",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Drive Time",
+        "label": "개폐기 선택시 구동시간을 입력해주세요.",
+        "tooltip": "",
+        "group": "c28f112b3e1541d8",
+        "order": 10,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "driveTime",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1390,
+        "y": 280,
+        "wires": [
+            [
+                "80f751bc8b4dd5f4"
+            ]
+        ]
+    },
+    {
+        "id": "fd19f0400c9b9632",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Lora ID",
+        "label": "LoRa 선택시 아이디 5자리를 입력해주세요.",
+        "tooltip": "",
+        "group": "c28f112b3e1541d8",
+        "order": 18,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "loraId",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1380,
+        "y": 440,
+        "wires": [
+            [
+                "fe59defcfd5ebffd"
+            ]
+        ]
+    },
+    {
+        "id": "be282df30960adf5",
+        "type": "ui_text_input",
+        "z": "169a85797e154a79",
+        "g": "7a2f30566efa08de",
+        "name": "Device Tag",
+        "label": "사용할 디바이스의 이름을 지정해주세요.",
+        "tooltip": "",
+        "group": "c28f112b3e1541d8",
+        "order": 22,
+        "width": 8,
+        "height": 1,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "deviceTag",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1390,
+        "y": 520,
+        "wires": [
+            [
+                "3368011864b935e6"
+            ]
+        ]
+    },
+    {
+        "id": "454129ee5fa07c30",
+        "type": "debug",
+        "z": "169a85797e154a79",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1310,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "dcee49088b07f0ad",
+        "type": "ui_button",
+        "z": "169a85797e154a79",
+        "name": "",
+        "group": "c28f112b3e1541d8",
+        "order": 25,
+        "width": 16,
+        "height": 1,
+        "passthru": false,
+        "label": "button",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#7A7A7A",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1300,
+        "wires": [
+            [
+                "99cd82f6029fda2e"
+            ]
+        ]
+    },
+    {
+        "id": "99cd82f6029fda2e",
+        "type": "function",
+        "z": "169a85797e154a79",
+        "name": "",
+        "func": "var usage = global.get(\"usage\")\nvar deviceList = global.get(\"deviceList\")\nvar fanType = global.get(\"fanType\")\nvar powerSource = global.get(\"powerSource\")\nvar driveTime = global.get(\"driveTime\")\nvar connectionType = global.get(\"connectionType\")\nvar gpioPin = global.get(\"gpioPin\")\nvar gpioSubPin = global.get(\"gpioSubPin\")\nvar loraId = global.get(\"loraId\")\nvar loraRelayNo = global.get(\"loraRelayNo\")\nvar deviceTag = global.get(\"deviceTag\")\nvar objectData = null\nvar twoDot = ':'\nvar minus = '-'\n\nif (deviceList == 'F:' && fanType == '') {\n    global.set(\"errorCase\", 'fanTypeError');\n    objectData = 'Fan type unselected';\n    \n} else if (deviceList == 'M:' && driveTime == ''){\n    global.set(\"errorCase\", 'driveTimeError');\n    objectData = 'Motor drive time undefined';\n    \n} else if (connectionType == 'G:' && gpioPin == ''){\n    global.set(\"errorCase\", 'gpioSelectError');\n    objectData = 'GPIO Pin unselected';\n\n} else if (deviceList == 'M:' && gpioSubPin == ''){\n    global.set(\"errorCase\", 'gpioSubSelectError');\n    objectData = 'GPIO Second Pin unselected';\n    \n} else if (connectionType == 'L:' && loraId == ''){\n    global.set(\"errorCase\", 'loraIdMissingError');\n    objectData = 'LoRa id is undefined';\n    \n} else if (connectionType == 'L:' && loraRelayNo == ''){\n    global.set(\"errorCase\", 'loraRelayNoMissingError');\n    objectData = 'LoRa relay number is undefined';\n\n} else {\n    global.set(\"errorCase\", 'noError');\n    if (connectionType == 'G:'){\n        if (deviceList == 'F:'){\n            objectData = usage + deviceList + powerSource + fanType + minus + connectionType + gpioPin + minus + deviceTag;\n        } else if (deviceList == 'M:') {\n            objectData = usage + deviceList + driveTime + twoDot + powerSource + minus + connectionType + gpioPin + gpioSubPin + minus + deviceTag;\n        } else {\n            objectData = usage + deviceList + powerSource + minus + connectionType + gpioPin + minus + deviceTag;\n        }\n    } else if (connectionType == 'L:') {\n        if (deviceList == 'F:') {\n            objectData = usage + deviceList + powerSource + fanType + minus + connectionType + loraId + loraRelayNo + minus + deviceTag;\n        } else if (deviceList == 'M:') {\n            objectData = usage + deviceList + driveTime + twoDot + powerSource + minus + connectionType + loraId + loraRelayNo + minus + deviceTag;\n        } else {\n            objectData = usage + deviceList + powerSource + minus + connectionType + loraId + loraRelayNo + minus + deviceTag;\n        }\n    }\n}\n\nglobal.set(\"objectData\", objectData);\nvar objectData2 = global.get(\"objectData\");\nvar objectData3 = null;\nglobal.set(\"objectData3\", objectData2);\nmsg.payload = objectData2;\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 1300,
+        "wires": [
+            [
+                "10595bdbf800ed4b",
+                "454129ee5fa07c30"
+            ]
+        ]
+    },
+    {
+        "id": "10595bdbf800ed4b",
+        "type": "switch",
+        "z": "169a85797e154a79",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Fan type unselected",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Motor drive time undefined",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "GPIO Pin unselected",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "GPIO Second Pin unselected",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "LoRa id is undefined",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "LoRa relay number is undefined",
+                "vt": "str"
+            },
+            {
+                "t": "nnull"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 7,
+        "x": 1350,
+        "y": 1300,
+        "wires": [
+            [
+                "d2e7d01072284eac"
+            ],
+            [
+                "b30bdadb9eaceded"
+            ],
+            [
+                "cd5d19bc4141b367"
+            ],
+            [
+                "75bc3114c9791720"
+            ],
+            [
+                "002a077b81e82dc5"
+            ],
+            [
+                "229c5ad6517d6890"
+            ],
+            [
+                "de8fbf02447fc633",
+                "dcd782702e736ae0"
+            ]
+        ]
+    },
+    {
+        "id": "d2e7d01072284eac",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Fan 사용시 장비 업체를 선택해주셔야 합니다",
+        "name": "",
+        "x": 1510,
+        "y": 1120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b30bdadb9eaceded",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "개폐기 사용시 구동시간을 입력해주셔야 합니다.",
+        "name": "",
+        "x": 1510,
+        "y": 1160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cd5d19bc4141b367",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "GPIO 핀 번호가 선택되지 않았습니다.",
+        "name": "",
+        "x": 1510,
+        "y": 1200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "75bc3114c9791720",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "개폐기 사용시 두번째 핀도 선택해주셔야 합니다.",
+        "name": "",
+        "x": 1510,
+        "y": 1240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "002a077b81e82dc5",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "LoRa ID가 설정되지 않았습니다.",
+        "name": "",
+        "x": 1510,
+        "y": 1280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "229c5ad6517d6890",
+        "type": "ui_toast",
+        "z": "169a85797e154a79",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "확인",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "LoRa Relay Number가 설정되지 않았습니다.",
+        "name": "",
+        "x": 1510,
+        "y": 1320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "de8fbf02447fc633",
+        "type": "file",
+        "z": "169a85797e154a79",
+        "name": "",
+        "filename": "objectinfo.txt",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1510,
+        "y": 1360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dcd782702e736ae0",
+        "type": "delay",
+        "z": "169a85797e154a79",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "0.5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1500,
+        "y": 1400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "584ecd5c6e3f99a3",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "5e01bea49e0c40d2",
+        "order": 1,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "da521af19dfd657b",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "5e01bea49e0c40d2",
+        "order": 3,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "570ce8d155b44a63",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 1,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "1fb58754a4422644",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 4,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "4585565bad26a1c7",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "1371c4edec3fea11",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 8,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "88e3645eddf6d897",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 9,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "2dfb6e3c2cee6746",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 12,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "65b33f81e0034d25",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 13,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "3198a2ac125ad82c",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 16,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "db98b33617152789",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 17,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "af3ba25157f8b1a5",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 20,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "a68db36062985079",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 21,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "84b4903ad4ce31ef",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 24,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "1ff89b67feb71d19",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 25,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "fb5bad818306902a",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 28,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "c7c80d530925aa4c",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 29,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "d081ee1edd96febd",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "f1f88eddc714f067",
+        "order": 32,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "119258632b087850",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "376898c7410a341f",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "875cc901f307606f",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 4,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "f983c7cb67ea4d67",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 7,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "53e9c95fcde7b54b",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 8,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "86b126fa915a76c6",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 11,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "906d7b78a69403a2",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 12,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "40d5730c6736480b",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 15,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "f515619de6bdbab0",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 16,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "2abe0f594f7d3337",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 19,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "a54c4b053708ef7f",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 20,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "b248c1947e4f0e98",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 23,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "2191fa83a1fbab62",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 24,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "098a3600d1b34c34",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "c28f112b3e1541d8",
+        "order": 26,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "d934ce5cd151e934",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "12638e170fa89486",
+        "order": 1,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "2115401b1ec9aea0",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "12638e170fa89486",
+        "order": 3,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "ab196ee7d77ab95b",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "12638e170fa89486",
+        "order": 4,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "adbb2856f3a95796",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "12638e170fa89486",
+        "order": 6,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "6f49fecc75c37601",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "12638e170fa89486",
+        "order": 7,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "3f53e5c41869a544",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "12638e170fa89486",
+        "order": 9,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "bf4b0c7dd0cfe4f5",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 1,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "cfe5727496f15a14",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 4,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "7901ca74c5b0a654",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "795be0e4ab6c98d6",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 8,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "8b21c1ef0143fb9b",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 9,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "f38ee1543818eada",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 12,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "825673dc8a8a6391",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 13,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "9323dd4ec8d00ddd",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 16,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "8ab8fc7d829fbe02",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 17,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "4240ddb913cebd87",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 20,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "c6a9df26a1426b4c",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 21,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "775ad2a81cce9481",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 24,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "b0cc3c5d78dcce43",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 25,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "a82228a0ef6c5bab",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "a95fefb164a341d2",
+        "order": 28,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "d15f02afe64a430e",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "5047c5a038e55281",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "cd492c961df9583f",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 4,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "73385e7790a67fe6",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 6,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "83ad5569904908e0",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 7,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "3ecb9bb9cb7e1486",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 9,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "2a73de8c31e178c4",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 10,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "cd9740910a27c060",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 12,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "c55c06087c5ba76a",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 13,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "ee29c06a3a242c9a",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 15,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "3fb68e7b046178a8",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 16,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "da502d2eb3075f1c",
+        "type": "ui_spacer",
+        "z": "169a85797e154a79",
+        "name": "spacer",
+        "group": "7cbb9e6ef86b3063",
+        "order": 18,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "f1f88eddc714f067",
+        "type": "ui_group",
+        "name": "Device Information",
+        "tab": "cc1f484121d20b64",
+        "order": 3,
+        "disp": true,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5e01bea49e0c40d2",
+        "type": "ui_group",
+        "name": "Setting Complete",
+        "tab": "cc1f484121d20b64",
+        "order": 2,
+        "disp": true,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c28f112b3e1541d8",
+        "type": "ui_group",
+        "name": "Object Information",
+        "tab": "cc1f484121d20b64",
+        "order": 4,
+        "disp": true,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "12638e170fa89486",
+        "type": "ui_group",
+        "name": "Device Configuration",
+        "tab": "cc1f484121d20b64",
+        "order": 5,
+        "disp": true,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7cbb9e6ef86b3063",
+        "type": "ui_group",
+        "name": "API",
+        "tab": "cc1f484121d20b64",
+        "order": 7,
+        "disp": true,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "30e15ef0371c4cb4",
+        "type": "ui_group",
+        "name": "ㅤ",
+        "tab": "cc1f484121d20b64",
+        "order": 8,
+        "disp": true,
+        "width": "24",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a95fefb164a341d2",
+        "type": "ui_group",
+        "name": "Define",
+        "tab": "cc1f484121d20b64",
+        "order": 6,
+        "disp": true,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "560c9670457e1c5f",
+        "type": "ui_group",
+        "name": "control bar",
+        "tab": "cc1f484121d20b64",
+        "order": 1,
+        "disp": false,
+        "width": "25",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b47ce81ca04ab4ec",
+        "type": "ui_group",
+        "name": "Form & Switch",
+        "tab": "eff6f2c9c8e467a0",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "cc1f484121d20b64",
+        "type": "ui_tab",
+        "name": "Create Config File",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "eff6f2c9c8e467a0",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 8,
+        "disabled": false,
+        "hidden": false
+    }
+]
